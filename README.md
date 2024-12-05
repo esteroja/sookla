@@ -26,6 +26,7 @@ Hinnad aina tõusevad ja tõusevad, kuid sööma peab ka vaene tudeng. Rakendus 
   - Kategooria
   - Jälgitud kasutajad
   - Meeldivaks lisatud retseptid
+* Kasutajate otsimine listi või kasutajanime järgi
 
 * Kasutaja, kes ei ole sisselogitud
   - Retseptivoog
